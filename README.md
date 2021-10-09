@@ -19,6 +19,7 @@ Spawn Selector for QB-Core Framework :eagle:
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>
 
+yo
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
