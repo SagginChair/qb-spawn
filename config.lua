@@ -20,7 +20,7 @@ QB.Spawns = {
     },
 
     ["sandy"] = {
-        coords = vector4(1817.34, 3660.17, 34.28, 166.92),
+        coords = vector4(1817.1, 3659.66, 34.28, 187.8),
         location = "sandy",
         label = "Sandy Shores",
     },
