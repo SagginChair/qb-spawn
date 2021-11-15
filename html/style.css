@@ -32,16 +32,16 @@
 }
 
 .location:hover {
-    background-color: #00c3ff;
+    background-color: #466887;
     transition: 0.2s;
 }
 
 .selected {
-    background-color: #00c3ff;
+    background-color: #466887;
 }
 
 .submit-spawn {
-    background-color: #00c3ff;
+    background-color: #19ff79;
     width: 28vh;
     height: 4.5vh;
     margin-bottom: .75vh;
