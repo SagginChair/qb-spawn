@@ -7,10 +7,10 @@ QB.Spawns = {
         label = "Legion Square",
     },
 
-    ["policedp"] = {
-        coords = vector4(428.23, -984.28, 29.76, 3.5),
-        location = "policedp",
-        label = "Police Department",
+    ["busstop"] = {
+        coords = vector4(450.65, -650.94, 28.45, 268.85),
+        location = "busstop",
+        label = "LS Bus Station",
     },
 
     ["paleto"] = {
