@@ -8,9 +8,9 @@ QB.Spawns = {
     },
 
     ["busstop"] = {
-        coords = vector4(450.65, -650.94, 28.45, 268.85),
+        coords = vector4(410.05, -965.76, 29.47, 40.63),
         location = "busstop",
-        label = "LS Bus Station",
+        label = "Mission Row Police Department",
     },
 
     ["paleto"] = {
